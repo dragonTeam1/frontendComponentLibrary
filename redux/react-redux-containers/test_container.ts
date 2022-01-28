@@ -1,6 +1,7 @@
 import { connect } from "react-redux";
 import { ActionType } from "../reduce/defind";
-import {TESTACTIONTYPE} from "../reduce/action_type";
+// import {TESTACTIONTYPE} from "../reduce/action_type";
+const TESTACTIONTYPE = "testactiontype";
 
 const mapStateToProps = (state: ActionType) => {
     return {
