@@ -21,5 +21,4 @@ const mapDispatchToProps = (dispatch: (action: ActionType) => void) => {
     });
 };
 
-export default (example) =>
-    connect(mapStateToProps, mapDispatchToProps)(example);
+export default (example) => connect(mapStateToProps, mapDispatchToProps)(example);
