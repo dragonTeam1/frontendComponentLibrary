@@ -1,0 +1,1 @@
+{"version":3,"file":"reducers.js","sourceRoot":"","sources":["reducers.ts"],"names":[],"mappings":"AAEA,gBAAe,UAAC,KAAiB,EAAE,MAAkB;IACjD,QAAQ,MAAM,CAAC,IAAI,EAAE;QACjB,KAAK,MAAM;YACP,OAAO;gBACH,IAAI,EAAE,MAAM;gBACZ,IAAI,EAAE,WAAW;aACpB,CAAC;QACN;YACI,OAAO,KAAK,CAAC;KACpB;AACL,CAAC,EAAC"}
